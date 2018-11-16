@@ -1,5 +1,7 @@
+package com.hackerrank.warm_up_challenges;
+//https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=warmup
 
-
+import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -52,7 +54,10 @@ public class SockMerchant {
 		
 		System.out.println("pair = :"+pair);
 */
+////////////////////////////////////////////
+        
 
+////////////////////////////////////////////
 	}
 
 }
